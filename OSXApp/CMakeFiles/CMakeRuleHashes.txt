@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+a415351995d1a1c6c87763f9215d4257 lib/SDL2/CMakeFiles/uninstall

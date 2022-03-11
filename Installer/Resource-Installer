@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+open -W -a "Terminal"  -e "resources.sh"
+exit $?

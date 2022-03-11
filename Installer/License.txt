@@ -1,0 +1,7 @@
+OpenFunscripter is provided and licensed under here
+
+https://github.com/OpenFunscripter/OFS
+
+Installer for OpenFunscripter is licensed here
+
+https://github.com/559lawndart/OFS

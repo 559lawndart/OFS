@@ -20,7 +20,6 @@ jobs:
     - name: EASTL special treatment
       run: |
         cd lib/EASTL
-        git submodule update --init
 
     - name: Install Dependencies
       run: |

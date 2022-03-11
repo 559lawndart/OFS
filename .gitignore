@@ -15,3 +15,5 @@ OFP.png
 TODO.txt
 .vscode/settings.json
 remedy.rdbg
+.DS_Store
+.cmake
